@@ -1,0 +1,22 @@
+{
+  "name": "@nitescuc/encoder-rpm",
+  "version": "0.0.1",
+  "description": "Encoder based motor RPM reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitescuc/encoder-rpm.git"
+  },
+  "author": "Cristian Nitescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitescuc/encoder-rpm/issues"
+  },
+  "homepage": "https://github.com/nitescuc/encoder-rpm#readme",
+  "dependencies": {
+    "pigpio": "^1.2.2"
+  }
+}
